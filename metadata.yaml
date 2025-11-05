@@ -1,0 +1,5 @@
+homepage: "https://www.stackadapt.com"
+documentation: "https://github.com/StackAdapt/stackadapt-gtm-client-side-pixel"
+versions:
+  - sha: d6a56883d570c84dba5906c820905cc92f43a475
+    changeNotes: Initial commit
